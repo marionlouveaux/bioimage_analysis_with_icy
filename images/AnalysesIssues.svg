@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240mm"
+   height="160mm"
+   viewBox="0 0 240 160"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="AnalysesIssues.svg"
+   inkscape:export-filename="C:\Users\Marion\Documents\NEUBIAS\NEUBIAS_Academy\bioimage_analysis_with_icy\images\AnalysesIssues.png"
+   inkscape:export-xdpi="399"
+   inkscape:export-ydpi="399">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.85859017"
+     inkscape:cx="380.33236"
+     inkscape:cy="328.04868"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-137)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,12.317405,154.01914)"><flowRegion
+         id="flowRegion20"><rect
+           id="rect22"
+           width="581.00262"
+           height="76.694084"
+           x="128.63054"
+           y="20.332493" /></flowRegion><flowPara
+         id="flowPara24"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">&quot;My colleague gave me some code, but I don't know how to program :(</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="flowPara146">I can't even read code...&quot;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot40"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,16.331516,138.89276)"><flowRegion
+         id="flowRegion36"><rect
+           id="rect34"
+           width="674.03253"
+           height="41.038296"
+           x="128.63054"
+           y="20.332493" /></flowRegion><flowPara
+         id="flowPara38"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">&quot;Till now, I analysed everything by hand, but today I have tons of images to analyse... and I need to do all this for tomorrow :S&quot;</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-33.752662,223.10308)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot78"
+       xml:space="preserve"><flowRegion
+         id="flowRegion74"><rect
+           y="20.332493"
+           x="128.63054"
+           height="96.521423"
+           width="683.79999"
+           id="rect72" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="flowPara76">&quot;Making a graphical interface is way too time consuming... But when I deliver code to the users they can't re-use it alone and I loose time in assisting them afterwards.&quot;</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,-4.5859618,67.132083)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot86"
+       xml:space="preserve"><flowRegion
+         id="flowRegion82"><rect
+           y="20.332493"
+           x="128.63054"
+           height="75.314148"
+           width="457.35825"
+           id="rect80" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="flowPara84" /></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,4.6026253,198.04227)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot94"
+       xml:space="preserve"><flowRegion
+         id="flowRegion90"><rect
+           y="20.332493"
+           x="128.63054"
+           height="24.688408"
+           width="501.18353"
+           id="rect88" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+         id="flowPara92">&quot;I need to teach quantitative analysis to non programmers.&quot;</flowPara></flowRoot>    <g
+       id="g135">
+      <g
+         transform="translate(3.7092773,78.667452)"
+         id="g16">
+        <circle
+           style="fill:none;fill-opacity:1;stroke:#1a5076;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path10"
+           cx="26.366154"
+           cy="74.336395"
+           r="6.8956757" />
+        <path
+           style="fill:none;fill-opacity:1;stroke:#1a5076;stroke-width:0.57253903;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path12"
+           sodipodi:type="arc"
+           sodipodi:cx="26.366163"
+           sodipodi:cy="-95.216385"
+           sodipodi:rx="9.4243622"
+           sodipodi:ry="13.499762"
+           sodipodi:start="0"
+           sodipodi:end="3.161315"
+           d="m 35.790525,-95.216385 a 9.4243622,13.499762 0 0 1 -4.765938,11.735258 9.4243622,13.499762 0 0 1 -9.477507,-0.133878 9.4243622,13.499762 0 0 1 -4.603446,-11.86761"
+           sodipodi:open="true"
+           transform="scale(1,-1)" />
+      </g>
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,34.583166,143.39022)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         id="flowRoot96"
+         xml:space="preserve"><flowRegion
+           id="flowRegion98"><rect
+             y="126.6283"
+             x="-75.560806"
+             height="86.139313"
+             width="315.84415"
+             id="rect100" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Bold'"
+           id="flowPara102">The biologist</flowPara></flowRoot>    </g>
+    <circle
+       r="6.8956757"
+       cy="210.53877"
+       cx="210.87799"
+       id="circle50"
+       style="fill:none;fill-opacity:1;stroke:#1a5076;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       transform="scale(1,-1)"
+       sodipodi:open="true"
+       d="m 220.30235,-231.41876 a 9.4243622,13.499762 0 0 1 -4.76594,11.73526 9.4243622,13.499762 0 0 1 -9.4775,-0.13388 9.4243622,13.499762 0 0 1 -4.60345,-11.86761"
+       sodipodi:end="3.161315"
+       sodipodi:start="0"
+       sodipodi:ry="13.499762"
+       sodipodi:rx="9.4243622"
+       sodipodi:cy="-231.41876"
+       sodipodi:cx="210.87799"
+       sodipodi:type="arc"
+       id="path52"
+       style="fill:none;fill-opacity:1;stroke:#1a5076;stroke-width:0.57253903;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,205.28194,200.92515)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot110"
+       xml:space="preserve"><flowRegion
+         id="flowRegion106"><rect
+           y="126.6283"
+           x="-75.560806"
+           height="86.139313"
+           width="315.84415"
+           id="rect104" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:roboto;-inkscape-font-specification:'roboto Bold'"
+         id="flowPara108">The bioimage analyst</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot120"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,24.936869,155.85199)"><flowRegion
+         id="flowRegion122"><rect
+           id="rect124"
+           width="568.32837"
+           height="48.761921"
+           x="-51.284073"
+           y="217.15135" /></flowRegion><flowPara
+         id="flowPara126"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">&quot;As I am on a microscopy platform, I hardly have time to make analyses for others and definitively not several hours in a row.&quot; </flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.26458333,0,0,0.26458333,26.553639,168.32492)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot156"
+       xml:space="preserve"><flowRegion
+         id="flowRegion150"><rect
+           y="20.332493"
+           x="128.63054"
+           height="76.694084"
+           width="581.00262"
+           id="rect148" /></flowRegion><flowPara
+         id="flowPara154"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif">&quot;I took a programming course one day, but I forgot everything.&quot;</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot160"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;line-height:1.25;font-family:roboto;-inkscape-font-specification:roboto;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,28.973173,151.28759)"><flowRegion
+         id="flowRegion162"><rect
+           id="rect164"
+           width="629.70117"
+           height="91.638756"
+           x="140.40065"
+           y="387.81802" /></flowRegion><flowPara
+         id="flowPara166"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#1a5076;fill-opacity:1">=&gt; ever tried graphical programming?</flowPara></flowRoot>  </g>
+</svg>
