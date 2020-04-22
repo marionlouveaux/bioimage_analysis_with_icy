@@ -2,7 +2,7 @@
 title: "Bioimage analysis with Icy"
 subtitle: "Webinar - NEUBIAS Academy @Home"
 author: "Marion Louveaux"
-institute: "Institut Pasteur, Paris"
+institute: "Institut Pasteur, Paris \n \n https://marionlouveaux.github.io/bioimage_analysis_with_icy/"
 date: "2020-04-22"
 output:
   xaringan::moon_reader:
@@ -225,7 +225,10 @@ http://icy.bioimageanalysis.org/plugin/active-contours/
 http://icy.bioimageanalysis.org/plugin/track-manager/         
 http://icy.bioimageanalysis.org/plugin/bioflow/        
 
-
+???
+extract motion of intracellular material observed using fluorescence
+microscopy, while simultaneously inferring the parameters of a given theoretical model 
+actin bulk flow   
 
 ---
 # Icy: 3D rotation plugin          
@@ -267,9 +270,9 @@ knitr::include_graphics("images/Interoperability.png")
 ---
 # Icy: Conclusions     
 
-- unified graphical user interface       
-- large variety of plugins
-- graphical programming option        
+- Unified graphical user interface       
+- Large variety of plugins
+- Graphical programming option        
 
 
 ---
@@ -303,21 +306,21 @@ knitr::include_graphics("images/Interoperability.png")
 3. Community, get involved!             
 
 ---
-# Protocols: Introduction
+# Protocols: Common issues     
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/AnalysesIssues.png")
 ```
 
 ---
-# Protocols: Introduction  
+# Protocols: Definition of bioimage analysis    
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/bioimage_analysis_workflow.png")
 ```
 
 ---
-# Protocols: Introduction
+# Protocols: Example      
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/BiologicalQuestion.png")
@@ -331,7 +334,7 @@ https://zenodo.org/record/3706554#.XpgUbZk6-Uk
 
 
 ---
-# Protocols: Introduction
+# Protocols: Definition of workflow
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/WorkflowFormalisation.png")
@@ -341,7 +344,7 @@ knitr::include_graphics("images/WorkflowFormalisation.png")
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk        
 
 ---
-# Protocols: Introduction
+# Protocols: A protocol is a workflow     
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/WorkflowExampleFormalised.png")
@@ -352,7 +355,7 @@ https://zenodo.org/record/3706554#.XpgUbZk6-Uk
 
 
 ---
-# Protocols: Introduction
+# Protocols:  A protocol is a workflow   
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/WorkflowExampleFormalisedwithLegends.png")
@@ -362,9 +365,9 @@ knitr::include_graphics("images/WorkflowExampleFormalisedwithLegends.png")
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk        
 
 ---
-# Protocols: Graphical programming  
+# Protocols: Loading a protocol  
 
-Loading a protocol from a local repository     
+**From a local repository**     
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/YGaZC6trDWc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -372,9 +375,9 @@ Loading a protocol from a local repository
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk  
 
 ---
-# Protocols: Graphical programming  
+# Protocols: Loading a protocol  
 
-Loading a protocol from the online Icy repository    
+**From the online Icy repository**    
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/guVS7Vq7-ZQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -382,9 +385,7 @@ Loading a protocol from the online Icy repository
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk  
 
 ---
-# Protocols: Graphical programming           
-
-Getting started     
+# Protocols: Getting started           
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/jDvWOU_Actk?list=PLTzQ6G6h35v-QMfXPnzm8Tfcm_T09KwBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -393,9 +394,8 @@ https://zenodo.org/record/3706554#.XpgUbZk6-Uk
 
 
 ---
-# Protocols: Graphical programming           
+# Protocols: Getting started           
 
-Getting started 
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/ProtocolBasics.png")
@@ -403,9 +403,8 @@ knitr::include_graphics("images/ProtocolBasics.png")
 
 
 ---
-# Protocols: Graphical programming           
+# Protocols: Add a block           
 
-Add a block      
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/3OhFIF8wOnc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -413,9 +412,8 @@ Add a block
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk  
 
 ---
-# Protocols: Graphical programming           
+# Protocols: Run the protocol           
 
-Run the protocol
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/OVoGznelsEQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -423,9 +421,8 @@ Run the protocol
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk  
 
 ---
-# Protocols: Automation             
+# Protocols: Automation - Batch processing             
 
-Batch processing     
 
 ```{r, echo=FALSE}
 knitr::include_graphics("images/Batch.png")
@@ -435,9 +432,7 @@ knitr::include_graphics("images/Batch.png")
 https://zenodo.org/record/3706554#.XpgUbZk6-Uk  
 
 ---
-# Protocols: Automation             
-
-Headless mode    
+# Protocols: Automation - Headless mode              
 
 <iframe width="700" height="400" src="https://www.youtube.com/embed/KI57cNbGDyg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -486,9 +481,9 @@ knitr::include_graphics("images/Ethics.png")
 ---
 # Protocols: Conclusions                
 
-- graphical programming, automation without programming knowledge            
-- yet flexible      
-- reproducible and transparent    
+- Automation without programming knowledge            
+- Yet flexible      
+- Reproducible and transparent    
 
 ---
 # Questions? 
@@ -535,7 +530,7 @@ knitr::include_graphics("images/Community.png")
     - Maintain the website     
     - Communicate around Icy         
 
-The Icy team has also other non community oriented mission: Icy Services, selling services around Icy. See http://icy.bioimageanalysis.org/services/       
+The Icy team recently started another project: Icy Services, selling services around Icy for industrials or academics. See http://icy.bioimageanalysis.org/services/       
 
 
 ---
@@ -616,7 +611,7 @@ Anybody can give help, no need to be an expert. Be active on the forum(s) as hel
 
 Big big thanks to: 
 - NEUBIAS and NEUBIAS Academy              
-- Moderators: Ofra Golani, Rocco D'Antuono, Stéphane Dallongeville and Daniel Felipe Gonzalez Obando             
+- Moderators: Julien Colombelli, Ofra Golani, Rocco D'Antuono, Stéphane Dallongeville and Daniel Felipe Gonzalez Obando             
 - Icy team     
 - Jessica Quintin, Stéphane Rigaud, Stéphane Verger, Maria Manich and David Gaboriau for images and protocols       
 
