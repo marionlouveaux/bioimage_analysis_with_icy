@@ -520,7 +520,7 @@ knitr::include_graphics("images/Community.png")
 ---
 # Community: The Icy team      
 
-**Community involvement of the Icy team**     
+**Community involvement**     
 
 - Maintain Icy 2.0
 
@@ -528,9 +528,13 @@ knitr::include_graphics("images/Community.png")
 
 - Foster the community dynamic      
     - Maintain the website     
-    - Communicate around Icy         
+    - Communicate around Icy     
 
-The Icy team recently started another project: Icy Services, selling services around Icy for industrials or academics. See http://icy.bioimageanalysis.org/services/       
+<br>      
+      
+**Other missions**   
+        
+The Icy team recently started "Icy Services", a commercial platform to provide services around Icy for industrials and academics. See http://icy.bioimageanalysis.org/services/       
 
 
 ---
