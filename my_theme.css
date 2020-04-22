@@ -1,0 +1,236 @@
+h1, h2, h3 {
+    margin: 0.3em 0;
+}
+a, a > code {
+  color: #007693;
+  text-decoration: none;
+}
+.footnote {
+  position: absolute;
+  bottom: 3em;
+  padding-right: 4em;
+  font-size: 90%;
+}
+.remark-code-line-highlighted     { background-color: #ffff88; }
+
+.inverse {
+  background-color: #272822;
+  color: #d6d6d6;
+  text-shadow: 0 0 20px #333;
+}
+.inverse h1, .inverse h2, .inverse h3 {
+  color: #f3f3f3;
+}
+/* Two-column layout */
+.left-column {
+  color: #777;
+  width: 20%;
+  height: 92%;
+  float: left;
+}
+.left-column h2:last-of-type, .left-column h3:last-child {
+  color: #000;
+}
+.right-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+}
+.pull-left {
+  float: left;
+  width: 47%;
+}
+.pull-right {
+  float: right;
+  width: 47%;
+}
+/*
+.pull-right ~ * {
+  clear: both;
+}
+*/
+.pull-left70 {
+  float: left;
+  width: 65%;
+}
+.pull-right30 {
+  float: right;
+  width: 32%;
+}
+.pull-right30 ~ * {
+  clear: both;
+}
+
+.pull-left30 {
+  float: left;
+  width: 32%;
+  clear: left;
+}
+.pull-right70 {
+  float: right;
+  width: 66%;
+}
+.pull-right70 ~ * {
+  clear: both;
+}
+
+
+.pull-left40 {
+  float: left;
+  width: 42%;
+}
+.pull-right60 {
+  float: right;
+  width: 52%;
+}
+/*
+.pull-right60 ~ * {
+  clear: both;
+}
+*/
+
+.pull-left10 {
+  float: left;
+  width: 7%;
+}
+.pull-right90 {
+  float: right;
+  width: 90%;
+}
+.pull-right90 ~ * {
+  clear: both;
+}
+
+
+
+img, video, iframe {
+  max-width: 100%;
+}
+blockquote {
+  border-left: solid 5px lightgray;
+  padding-left: 1em;
+}
+.remark-slide table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+.remark-slide table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #eee }
+
+@page { margin: 0; }
+@media print {
+  .remark-slide-scaler {
+    width: 100% !important;
+    height: 100% !important;
+    transform: scale(1) !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
+}
+.remark {
+    color: #f79545;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+    border-radius: 5px;
+    margin: 1em 0;
+	border-left: solid 5px lightgray;
+}
+
+blockquote {
+    margin-left: 1em;
+    font-size: 14px;
+    background-color: #f1f1f1;
+    padding: 5px;
+    border-radius: 5px;
+	border-left: none;
+}
+blockquote p, blockquote a {
+    font-size: 14px !important;
+    margin: 0 !important;
+}
+.remark-slide-content {
+    padding: 1em 2em;
+    color: #3a4342;
+}
+.remark-slide-content > h1:first-of-type {
+  margin-top: 0px;
+  color: #0098c1;
+}
+.title-slide {
+  background-color: #ffffff;
+  color: #f3f3f3;
+  text-shadow: 0 0 20px #3330;
+}
+.title-slide h1:first-of-type {
+  color: #888888;
+}
+.title-slide h2 {
+  color:  #0098c1;
+  line-height: 1.5em;
+}
+.title-slide h3 {
+  color: #888888;
+}
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+/* Footer */
+.my-footer {
+    position: absolute;
+    bottom: 0;
+    height: 30px;
+    display: flex;
+    z-index: 1000;
+}
+.my-footer .my-info {
+    margin-left: 30%;
+    float: left;
+    color: #888;
+}
+.my-footer .my-info a {
+  color: #888;
+  margin-right: 15px;
+}
+.my-footer .my-logo {
+    /*background-repeat: no-repeat; */
+    background-size: contain;
+    background-image: url(images/neubias_logo.png);
+    width: 20%;
+    /* float: right; */
+    /* height: 80px; */
+    margin-top: -50px;
+    margin-left: 30%;
+}
+
+.remark-slide-number {
+    bottom: 12px;
+    opacity: .5;
+    position: absolute;
+    right: 30px;
+}
+div.my-header {
+    background-color: #fff;
+    /*background: -webkit-gradient(linear, left top, right top, color-stop(0%,#ffb76b), color-stop(0%,#ffa73d), color-stop(0%,#ffffff), color-stop(10%,#ffffff), color-stop(25%,#F77A00), color-stop(100%,#F77A00));*/
+    background-image: linear-gradient(to right, #fff, #0098c1);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 0.5em;
+    width: 100%;
+    text-align: left;
+}
+div.my-footer-bar {
+    /*background-image: linear-gradient(to right, rgb(254, 234, 191), rgba(255,0,0,0));*/
+    background-image: linear-gradient(to right, #3a4342, #fff); 
+    background-color: #fff;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    height: 5px;
+    width: 100%;
+}
